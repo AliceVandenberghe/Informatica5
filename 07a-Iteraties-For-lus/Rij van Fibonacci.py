@@ -1,5 +1,5 @@
 # invoer
-getal = int (input ('Getal uit de rij van Pibonacci: '))
+getal = int(input('Getal uit de rij van Fibonacci: '))
 getal_1, getal_2, = 1, 1
 
 if getal > 2:
