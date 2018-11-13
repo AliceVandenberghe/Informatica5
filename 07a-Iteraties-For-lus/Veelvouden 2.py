@@ -1,8 +1,9 @@
 r = (int(input('getal: ')))
-som_veelvouden = ''
+som_veelvouden = 0
 
 #overloop alle veelvouden van r
-for i in range(0,100):
-    som_veelvouden += str(r i)
+for i in range(r, 101,r):
+    som_veelvouden += i
+
 
 print(som_veelvouden)
