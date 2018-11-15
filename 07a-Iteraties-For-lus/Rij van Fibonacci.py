@@ -11,3 +11,6 @@ if getal > 2:
     print(getal_3)
 elif getal == 1 or getal == 2:
     print('1')
+
+
+
